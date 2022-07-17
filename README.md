@@ -20,4 +20,4 @@ This project has a very user-friendly UI accompanied with just the right number 
 
 
 
-## My Deployment Link :  https://black-field-05ff11f10.1.azurestaticapps.net/index.html#bot
+## My Deployment Link :  https://black-field-05ff11f10.1.azurestaticapps.net/index.html
